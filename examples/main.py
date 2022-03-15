@@ -1,5 +1,7 @@
 import justpy as jp
 
+#sample, without using classes
+
 @jp.SetRoute("/home")
 def home():
     wp = jp.QuasarPage(tailwind=True)
@@ -38,4 +40,6 @@ def mouse_enter(widget, msg):
 def mouse_leave(widget, msg):
     widget.text = "The mouse left!"
 
+jp.Route("/", home)
+#start server
 jp.justpy()

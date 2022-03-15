@@ -15,8 +15,9 @@ instantly.
 <!-- TECH -->
 ## Technologies
 
-Web Framework: [JustPy](https://justpy.io/) helps you build the front-end of your 
-website without requiring any Javascript, HTML, and CSS. 
+Web Framework: [JustPy](https://justpy.io/) helps you build the front-end
+of your website, only using Python,
+without requiring any Javascript, HTML, and CSS. 
 
 Libraries: [pandas](https://pandas.pydata.org/)
 
