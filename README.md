@@ -3,18 +3,19 @@
 <div style="text-align:center"><img src="images/cover.png" /></div>
 
 <!-- ABOUT THE PROJECT -->
-## About
+## Getting Started
 
-
-
+Instant Dictionary is a web application. The user inputs a
+term, and app return the English definition of that term
+instantly.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
 <!-- TECH -->
-## Software and Libraries
+## Technologies
 
-
+Web Framework: [JustPy](https://justpy.io/)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
