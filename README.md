@@ -9,6 +9,13 @@ Instant Dictionary is a web application. The user inputs a
 term, and app return the English definition of that term
 instantly.
 
+To run the web app:
+
+1. Install the files
+2. Run main.py to start JustPy
+3. Launch in on your browser.
+4. Go to `http://127.0.0.1:8001`.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
@@ -20,6 +27,8 @@ of your website, only using Python,
 without requiring any Javascript, HTML, and CSS. 
 
 Libraries: [pandas](https://pandas.pydata.org/)
+
+Modules: [inspect](https://docs.python.org/3/library/inspect.html)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
