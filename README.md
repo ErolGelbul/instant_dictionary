@@ -26,7 +26,7 @@ Web Framework: [JustPy](https://justpy.io/) helps you build the front-end
 of your website, only using Python,
 without requiring any Javascript, HTML, and CSS. 
 
-Libraries: [pandas](https://pandas.pydata.org/)
+Libraries: [pandas](https://pandas.pydata.org/) - `pip install pandas`
 
 Modules: [inspect](https://docs.python.org/3/library/inspect.html)
 
