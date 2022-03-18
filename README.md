@@ -22,9 +22,14 @@ To run the web app:
 <!-- TECH -->
 ## Technologies
 
-Web Framework: [JustPy](https://justpy.io/) helps you build the front-end
+Web Frameworks:
+
+* [JustPy](https://justpy.io/) helps you build the front-end
 of your website, only using Python,
 without requiring any Javascript, HTML, and CSS. 
+
+* [Quasar](https://quasar.dev/) used for navigation and the banner
+for the web app.
 
 Libraries: [pandas](https://pandas.pydata.org/) - `pip install pandas`
 
