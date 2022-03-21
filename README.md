@@ -22,8 +22,8 @@ to create dataframes and return word-definition tuples as requested.
 
 To run the web app:
 
-1. Install the files
-2. Run main.py to start JustPy
+1. Download the files.
+2. Run main.py to start JustPy.
 3. Launch in on your browser.
 4. Go to the `development server`.
 
