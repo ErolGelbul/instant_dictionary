@@ -1,6 +1,6 @@
 <div id="top"></div>
 
-<div style="text-align:center"><img src="images/cover.png" /></div>
+<div style="text-align:center"><img src="images/cover3.jpg" /></div>
 
 <!-- ABOUT THE PROJECT -->
 ## Getting Started
@@ -16,13 +16,16 @@ be possible since my understanding of get() requests were only based on initilis
 I chose to use JustPy for the frontend since it only uses Python instead of the general frontend technologies,
 such as Javascript, HTML and CSS. For designing the navigation bar and the banner, I used the Quasar framework.
 
+To display the definition I used a 5k word dictionary .csv file and to retrieve data I used the pandas library
+to create dataframes and return word-definition tuples as requested.
+
 
 To run the web app:
 
 1. Install the files
 2. Run main.py to start JustPy
 3. Launch in on your browser.
-4. Go to `development server`.
+4. Go to the `development server`.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
