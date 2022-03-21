@@ -22,7 +22,7 @@ To run the web app:
 1. Install the files
 2. Run main.py to start JustPy
 3. Launch in on your browser.
-4. Go to `http://127.0.0.1:8001`.
+4. Go to `development server`.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
