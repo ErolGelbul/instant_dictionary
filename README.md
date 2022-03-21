@@ -5,9 +5,17 @@
 <!-- ABOUT THE PROJECT -->
 ## Getting Started
 
-Instant Dictionary is a web application. The user inputs a
-term, and app return the English definition of that term
-instantly.
+Instant Dictionary is a web application that I built back when I wanted to push my applications to the web.
+Although the project is still in a local production environment, it was one of my starting projects before
+deploying any app. The project follows a OOP design pattern. This was the first time I built a simple API
+with basic documentation.
+
+Another feature of this application is that it outputs the results instantly, which I never imagined would
+be possible since my understanding of get() requests were only based on initilisation of user inputs.
+
+I chose to use JustPy for the frontend since it only uses Python instead of the general frontend technologies,
+such as Javascript, HTML and CSS. For designing the navigation bar and the banner, I used the Quasar framework.
+
 
 To run the web app:
 
@@ -24,16 +32,13 @@ To run the web app:
 
 Web Frameworks:
 
-* [JustPy](https://justpy.io/) helps you build the front-end
-of your website, only using Python,
-without requiring any Javascript, HTML, and CSS. 
+* [JustPy](https://justpy.io/)
 
-* [Quasar](https://quasar.dev/) used for navigation and the banner
-for the web app.
+* [Quasar](https://quasar.dev/)
 
 Libraries: [pandas](https://pandas.pydata.org/) - `pip install pandas`
 
-Modules: [inspect](https://docs.python.org/3/library/inspect.html)
+Modules: [inspect](https://docs.python.org/3/library/inspect.html), [json](https://docs.python.org/3/library/json.html)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
