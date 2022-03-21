@@ -30,11 +30,7 @@ To run the web app:
 <!-- TECH -->
 ## Technologies
 
-Web Frameworks:
-
-* [JustPy](https://justpy.io/)
-
-* [Quasar](https://quasar.dev/)
+Web Frameworks: [JustPy](https://justpy.io/), [Quasar](https://quasar.dev/)
 
 Libraries: [pandas](https://pandas.pydata.org/) - `pip install pandas`
 
