@@ -30,6 +30,9 @@ To run the web app:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
+<div style="text-align:center"><img src="images/preview.gif" /></div>
+
+
 <!-- TECH -->
 ## Technologies
 
